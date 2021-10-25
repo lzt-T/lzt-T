@@ -4,10 +4,10 @@
 </p>
 
 #### 联系方式 | contact way
-I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below:
+I'm Lin ZhiTeng, nickname is “Elbert”. You can contact me by these way below:
 
-*  QQ: 648075392
-*  E-Mail: 648075392@qq.com
+*  QQ: 1134565243
+*  E-Mail: 1134565243@qq.com
 *  WeXin: Elbert-hua
 
 #### Platform&Tools
