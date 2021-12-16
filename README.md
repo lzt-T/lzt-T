@@ -8,7 +8,7 @@ I'm Lin ZhiTeng, nickname is “Elbert”. You can contact me by these way below
 
 *  QQ: 1134565243
 *  E-Mail: 1134565243@qq.com
-*  WeXin: Elbert-hua
+*  WeXin: 18528304368
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
