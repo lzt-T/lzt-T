@@ -1,6 +1,6 @@
 #### 访客计数 | Vistors Count
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@lztnb.readme"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@lzt-T.readme"></a>
 </p>
 
 #### 联系方式 | contact way
@@ -24,8 +24,8 @@ I'm Lin ZhiTeng, nickname is “Elbert”. You can contact me by these way below
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 #### 统计数据 | statistics
 
-![info](https://github-readme-stats.vercel.app/api?username=lztnb&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=lzt-T&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lztnb&layout=compact)](https://github.com/lztnb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzt-T&layout=compact)](https://github.com/lzt-T/github-readme-stats)
 
-[![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lztnb&theme=xcode)](https://github.com/lztnb)
+[![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lzt-T&theme=xcode)](https://github.com/lzt-T)
