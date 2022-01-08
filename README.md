@@ -4,7 +4,7 @@
 </p>
 
 #### 联系方式 | contact way
-I'm Lin ZhiTeng, nickname is “Elbert”. You can contact me by these way below:
+I'm Lin ZhiTeng. You can contact me by these way below:
 
 *  QQ: 1134565243
 *  E-Mail: 1134565243@qq.com
